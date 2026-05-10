@@ -1,7 +1,8 @@
 # 📊 Sales Analytics Dashboard — Syntecxhub Internship
 
 ## 📸 Dashboard Preview
-![Dashboard](C:\Users\nandi\OneDrive\Pictures\Screenshots 1\dashboard_preview.png)
+![Dashboard](<img width="1596" height="931" alt="dashboard_preview" src="https://github.com/user-attachments/assets/6be56521-6674-4afe-bac1-49aedb6abaa8" />
+)
 
 ## 📌 Project Overview
 An end-to-end Sales Analytics Dashboard built using Tableau, 
